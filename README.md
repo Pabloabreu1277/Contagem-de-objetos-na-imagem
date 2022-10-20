@@ -4,6 +4,5 @@ Nessa aplicação conseguimos contar a quantidade de carros na imagem, porém pa
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="500" alt="coding-time" src="car.jpg">
-    
-    <img align="center" height="500" alt="coding-time" src="identifica.png">
+    <img align="center" height="600" alt="coding-time" src="identifica.png">
     
